@@ -2,6 +2,7 @@
 
 Quelle: therapeutika.ch (https://www.therapeutika.ch/) – Texte unverändert übernommen. Stand: 29.09.2026.
 Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+WARNUNG: 29 Einträge sind Giftpflanzen und direkt unter dem Namen mit „WARNUNG: Giftpflanze“ markiert. Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen. Die Einstufung stammt nicht von therapeutika.ch, sondern aus allgemein anerkannten toxikologischen Angaben (u. a. Wikipedia „Liste giftiger Pflanzen“). Fehlende Markierung bedeutet nicht Unbedenklichkeit. Vergiftungsnotruf Schweiz: 145 (Tox Info Suisse), sonst 112.
 Webseite: https://zagathou.github.io/tcm-heilkraeuter/
 Zahl vor jeder Wirkung = Stärke laut therapeutika.ch (1 = stark, 2 und höher = schwächer).
 213 Einträge, alphabetisch. Nach jedem Eintrag folgen Latein/weitere Namen (falls vorhanden), Kategorie auf therapeutika.ch und Quell-URL.
@@ -155,6 +156,7 @@ Quelle: https://www.therapeutika.ch/Marrubium+vulgare
 ---
 
 ARNIKA:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 zytotoxisch, stimulierend, entspannend, aufbauend, erwärmend, adstringierend / zusammenziehend, bewegend, trocknend, hyperämisierend / durchblutungsfördernd, antiseptisch / desinifzierend / keimtötend, antimykotisch / wirksam gegen Pilzinfektionen, analgetisch / schmerzstillend, antiinflammatorisch / entzündungshemmend
 
@@ -182,6 +184,7 @@ Quelle: https://www.therapeutika.ch/Arnica+montana
 ---
 
 ARONSTAB:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, sekretolytisch / schleimlösend, expectorierend / auswurffördernd, diaphoretisch / schweisstreibend, carminativ / blähungs- und gärungswidrig, spasmolytisch / krampflösend
 
@@ -439,6 +442,7 @@ Quelle: https://www.therapeutika.ch/Berberis+vulgaris
 ---
 
 BESENGINSTER:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, laxierend / abführend, diuretisch / harntreibend
 Humorale Qualität: warm2°, trocken 2°; reinigend, öffnend, ausführend
@@ -463,6 +467,7 @@ Quelle: https://www.therapeutika.ch/Cytisus+scoparius
 ---
 
 BILSENKRAUT:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, spasmolytisch / krampflösend, hypnotisch / schlaffördernd, sedierend / beruhigend, analgetisch / schmerzstillend, diuretisch / harntreibend, blutreinigend
 
@@ -506,6 +511,7 @@ Quelle: https://www.therapeutika.ch/Betula+pendula
 ---
 
 BITTERMANDELN:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 leicht toxisch, antitussiv / hustenstillend, sekretolytisch / schleimlösend, expectorierend / auswurffördernd, laxierend / abführend
 
@@ -584,6 +590,7 @@ Quelle: https://www.therapeutika.ch/Potentilla+erecta
 ---
 
 BLUTWURZ, KANADISCHE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 leicht toxisch, sekretolytisch / schleimlösend, expectorierend / auswurffördernd, spasmolytisch / krampflösend, stoffwechselanregend, stimulierend, diuretisch / harntreibend, antipyretisch / fiebersenkend, sedierend / beruhigend, in grosser Dosis emetisch / brechreizfördernd
 
@@ -912,6 +919,7 @@ Quelle: https://www.therapeutika.ch/Artemisia+abrotanum
 ---
 
 EFEU:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 zytotoxisch, expektorierend / auswurffördernd, spasmolytisch / krampflösend, zerteilend, wirkt lösend, adstringierend / zusammenziehend, antiviral, antibakteriell, antimykotisch / wirksam gegen Pilzinfektionen, anthelminthisch / gegen Würmer, vermizid / wurmabtötend, antiinflammatorisch / entzündungshemmend, bronchospasmolytisch / Krämpfe in den Bronchien lösend
 Humorale Qualität: warm , trocken
@@ -968,6 +976,7 @@ Quelle: https://www.therapeutika.ch/Althaea+officinalis
 ---
 
 EISENHUT:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, stimulierend, herzstärkend, analgetisch / schmerzstillend, Anregung des Wärmeorganismus und Integration von Stoffwechselprozessen, das beste Umwandlungsstimulans
 
@@ -1169,6 +1178,7 @@ Quelle: https://www.therapeutika.ch/Baptisia+tinctoria
 ---
 
 FAULBAUM:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 laxierend / abführend, antiabsorbtiv / wasseraufnahmehemmend, reinigend, entgiftend, diuretisch / harntreibend, stoffwechselanregend, blutreinigend
 
@@ -1391,6 +1401,7 @@ Quelle: https://www.therapeutika.ch/Chimaphila+umbellata
 ---
 
 GIFTSUMACH:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, hautrötend, antirheumatisch
 
@@ -1602,6 +1613,7 @@ Quelle: https://www.therapeutika.ch/Cynosbati+fructus
 ---
 
 HASELWURZ:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, emmenagog / menstruationsfördernd, stimulierend, diuretisch / harntreibend, carminativ / blähungs- und gärungswidrig, diaphoretisch / schweisstreibend, abortiv / schwangerschatfsabbrechend, emetisch / brechreizfördernd, Östrogenbildung anregend
 Humorale Qualität: warm 2-3°, trocken 3°
@@ -2237,6 +2249,7 @@ Quelle: https://www.therapeutika.ch/Kelp
 ---
 
 KERMESBEERE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, analgetisch / schmerzstillend, auflösend, zerteilend, reinigend, laxierend / abführend, stoffwechselanregend
 
@@ -2380,6 +2393,7 @@ Quelle: https://www.therapeutika.ch/Krallendorn
 ---
 
 KÜCHENSCHELLE, KLEINE:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, stoffwechselanregend, spasmolytisch / krampflösend, sedierend / beruhigend, diaphoretisch / schweisstreibend, Östrogenbildung hemmend
 Humorale Qualität: Oberirdische Teile warm 4°, trocken 2°, Wurzel warm 2°, trocken 2°
@@ -2439,6 +2453,7 @@ Quelle: https://www.therapeutika.ch/Lavandula+angustifolia
 ---
 
 LEBENSBAUM:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, adstringierend / zusammenziehend, blutungsstillend, antipyretisch / fiebersenkend, emmenagog / menstruationsfördernd, antibakteriell, antimykotisch / wirksam gegen Pilzinfektionen, antiviral
 
@@ -2511,6 +2526,7 @@ Quelle: https://www.therapeutika.ch/Tilia+platyphyllos
 ---
 
 LOBELIE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, spasmolytisch / krampflösend, sekretolytisch / schleimlösend, expectorierend / auswurffördernd, stimulierend, emetisch / brechreizfördernd, stoffwechselanregend, diuretisch / harntreibend
 
@@ -2639,6 +2655,7 @@ Quelle: https://www.therapeutika.ch/Mahonia+aquifolium
 ---
 
 MAIAPFEL:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, laxierend / abführend, diuretisch / harntreibend
 
@@ -2659,6 +2676,7 @@ Quelle: https://www.therapeutika.ch/Podophyllum+peltatum
 ---
 
 MAIGLÖCKCHEN:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, spasmolytisch / krampflösend, herzstimulierend, wirkt herzaktiv, diuretisch / harntreibend
 In der Literatur widersprüchliche Aussagen
@@ -2939,6 +2957,7 @@ Quelle: https://www.therapeutika.ch/Oenothera+biennis+L_d_
 ---
 
 NACHTSCHATTEN, BITTERSÜSSER:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, antipyretisch / fiebersenkend, kühlend, blutreinigend, diuretisch / harntreibend, adstringierend / zusammenziehend, spasmolytisch / krampflösend, betäubend, narkotisierend, analgetisch / schmerzstillend, antirheumatisch, antiinflammatorisch / entzündungshemmend, kortisonähnlich, antiallergisch, antimikrobiell, antimykotisch / wirksam gegen Pilzinfektionen, expectorierend / auswurffördernd, sekretolytisch / schleimlösend, gewebeverdichtend, schleimhautreizend
 Humorale Qualität: kalt 2°, neutral
@@ -3125,6 +3144,7 @@ Quelle: https://www.therapeutika.ch/Paeonia+officinalis
 ---
 
 PFIRSICHKERN:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 emmenagog / menstruationsfördernd, schleimhautreizungsmildernd, laxierend / abführend
 
@@ -3142,6 +3162,7 @@ Quelle: https://www.therapeutika.ch/Prunus+persica
 ---
 
 POLEI-MINZE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 hepatotoxisch / lebertoxisch, diaphoretisch / schweisstreibend, verdauungsfördernd, carminativ / blähungs- und gärungswidrig, adstringierend / zusammenziehend, emmenagog / menstruationsfördernd, gebärmutteranregend, spasmolytisch / krampflösend (Uterus), leicht sedierend / beruhigend
 
@@ -3216,6 +3237,7 @@ Quelle: https://www.therapeutika.ch/Cydonia+vulgaris
 ---
 
 RAINFARN:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, emmenagog / menstruationsfördernd, carminativ / blähungs- und gärungswidrig, anthelminthisch / gegen Würmer
 Humorale Qualität: warm 3°, trocken 2-3°; erweichend, reinigend
@@ -3533,6 +3555,7 @@ Quelle: https://www.therapeutika.ch/Chionanthus+virginicus
 ---
 
 SCHÖLLKRAUT:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 leicht toxisch, stoffwechselanregend, diuretisch / harntreibend, laxierend / abführend, spasmolytisch / krampflösend, diaphoretisch / schweisstreibend, analgetisch / schmerzstillend, betäubend, entgiftend, cholagog / galletreibend, choleretisch / lebergallefördernd
 
@@ -3570,6 +3593,7 @@ Quelle: https://www.therapeutika.ch/Brassica+nigra
 ---
 
 SCHWERTLILIE, BLUTFARBIGE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 stoffwechselanregend, cholagog / galletreibend, diuretisch / harntreibend, laxierend / abführend, in grosser Dosis emetisch / brechreizfördernd
 Humorale Qualität: warm 3°, trocken 3°
@@ -3585,6 +3609,7 @@ Quelle: https://www.therapeutika.ch/Iris+versicolor
 ---
 
 SEIDENPFLANZE, KNOLLIGE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, diaphoretisch / schweisstreibend, diuretisch / harntreibend, sekretolytisch / schleimlösend, expectorierend / auswurffördernd
 
@@ -3793,6 +3818,7 @@ Quelle: https://www.therapeutika.ch/Plantago+lanceolata
 ---
 
 STECHAPFEL, GEMEINER:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, spasmolytisch / krampflösend, analgetisch / schmerzstillend, betäubend, sedierend / beruhigend, hypnotisch / schlaffördernd, narkotisierend, parasympatholytisch / Parasympatikus hemmend
 
@@ -4073,6 +4099,7 @@ Quelle: https://www.therapeutika.ch/Lilium+lancifolium
 ---
 
 TOLLKIRSCHE:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, spasmolytisch / krampflösend, sedierend / beruhigend, diuretisch / harntreibend, narkotisierend
 Humorale Qualität: kalt 2-3°, trocken 2°
@@ -4290,6 +4317,7 @@ Quelle: https://www.therapeutika.ch/Myrica+cerifera
 ---
 
 WALDREBE STEIFE:
+WARNUNG: Giftpflanze (giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 antirheumatisch, analgetisch / schmerzstillend, spasmolytisch / krampflösend, stimulierend, diuretisch / harntreibend
 
@@ -4733,6 +4761,7 @@ Quelle: https://www.therapeutika.ch/Hamamelis+virginiana
 ---
 
 ZAUNRÜBE, WEISSE:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, antirheumatisch, analgetisch / schmerzstillend, Immunsystem stärkend
 Humorale Qualität: warm 3°, trocken 3°
@@ -4751,6 +4780,7 @@ Quelle: https://www.therapeutika.ch/Bryonia+alba
 ---
 
 ZYPRESSENWOLFSMILCH:
+WARNUNG: Giftpflanze (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.
 Eigenschaften
 toxisch, sekretolytisch / schleimlösend, expectorierend / auswurffördernd, diuretisch / harntreibend, antiinflammatorisch / entzündungshemmend, antimikrobiell, spasmolytisch / krampflösend, antiallergisch
 

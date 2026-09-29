@@ -39,6 +39,12 @@
 - **Y:** Yamswurzel, Yohimbe, Yucca
 - **Z:** Zaubernuss, Zaunrübe, weisse, Zypressenwolfsmilch
 
+## ⚠ Warnung: Giftpflanzen
+
+29 der aufgeführten Heilkräuter sind Giftpflanzen. Sie sind auf der Webseite mit einem gut sichtbaren Warnhinweis und in `llms.txt` / `llms-full.txt` mit „WARNUNG: Giftpflanze“ markiert: Arnika (giftig) · Aronstab (sehr giftig) · Besenginster (giftig) · Bilsenkraut (sehr giftig) · Bittermandeln (giftig) · Blutwurz, kanadische (giftig) · Efeu (giftig) · Eisenhut (sehr giftig) · Faulbaum (giftig) · Giftsumach (giftig) · Haselwurz (giftig) · Kermesbeere (giftig) · Küchenschelle, kleine (sehr giftig) · Lebensbaum (giftig) · Lobelie (giftig) · Maiapfel (giftig) · Maiglöckchen (sehr giftig) · Nachtschatten, bittersüsser (giftig) · Pfirsichkern (giftig) · Polei-Minze (giftig) · Rainfarn (giftig) · Schöllkraut (giftig) · Schwertlilie, blutfarbige (giftig) · Seidenpflanze, knollige (giftig) · Stechapfel, gemeiner (sehr giftig) · Tollkirsche (sehr giftig) · Waldrebe steife (giftig) · Zaunrübe, weisse (sehr giftig) · Zypressenwolfsmilch (sehr giftig).
+
+**Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.** Die Einstufung stammt nicht von therapeutika.ch, sondern aus allgemein anerkannten toxikologischen Angaben (u. a. Wikipedia „Liste giftiger Pflanzen“ und die jeweiligen Pflanzenartikel). Eine fehlende Markierung bedeutet nicht, dass eine Pflanze unbedenklich ist. Bei Verdacht auf Vergiftung: Tox Info Suisse, Notruf 145 (Schweiz), sonst Notruf 112.
+
 ## Für KI und Maschinen lesbar
 
 - Sauberes, semantisches HTML (`main`, `article`, `nav`, `h1`–`h4`, Listen), alle Inhalte als Text im DOM
@@ -57,7 +63,7 @@ Alle Eigenschaften und TCM Wirkungen stammen von **[therapeutika.ch](https://www
 
 ## Hinweis
 
-Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.
+Angaben ohne Gewähr, ersetzt keine ärztliche Beratung. Giftpflanzen nur unter fachkundiger Anleitung anwenden, nicht selbst sammeln oder einnehmen.
 
 ## Weitere Seiten
 

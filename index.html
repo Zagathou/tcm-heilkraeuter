@@ -1467,6 +1467,10 @@
     .sid{ font-family:ui-monospace, SFMono-Regular, Menlo, Consolas, monospace; font-size:13px; overflow-wrap:anywhere; word-break:break-all; }
     @media (max-width:600px){ .contact dl{ grid-template-columns:1fr; } .contact dd{ margin-bottom:6px; } }
     .siblings ul{ list-style:none; margin:0; padding:0; display:flex; flex-wrap:wrap; gap:6px 14px; }
+    .warn{ margin:8px 0 10px; padding:10px 12px; border:1px solid #ffb020; border-left:5px solid #ff5a3c; border-radius:12px; background:rgba(255,176,32,0.10); color:#ffe2a8; }
+    .warn strong{ color:#ffc24d; }
+    .warn a{ color:#ffd27a; text-decoration:underline; text-decoration-color:rgba(255,210,122,0.5); }
+    footer .warn-line{ color:#ffd27a; }
     .sibs{ list-style:none; margin:0 0 8px; padding:0; display:flex; flex-wrap:wrap; justify-content:center; gap:4px 14px; }
     .intro .sibs{ justify-content:flex-start; }
   </style>
@@ -1477,6 +1481,7 @@
     <section class="card" aria-labelledby="title">
       <h1 id="title">TCM Heilkräuter – Eigenschaften und Wirkungen von Heilpflanzen nach der Traditionellen Chinesischen Medizin</h1>
       <p class="intro">Welche Eigenschaften und Wirkungen haben Heilkräuter wie Schafgarbe, Kamille, Baldrian oder Johanniskraut nach der Traditionellen Chinesischen Medizin (TCM)? Diese Übersicht listet 213 Heilkräuter aus der Kategorie „Heilkräuter“ von therapeutika.ch alphabetisch von A bis Z mit lateinischem Namen, Eigenschaften und TCM Wirkungen samt Indikationen, unverändert übernommen. Die Zahl vor jeder Wirkung zeigt die Stärke laut therapeutika.ch (<span class="badge">1</span> = stark, <span class="badge">2</span> und höher = schwächer).</p>
+      <p class="warn" role="note" id="giftpflanzen"><strong>⚠ Warnung – Giftpflanzen:</strong> 29 der hier aufgeführten Heilkräuter sind Giftpflanzen und auf ihrer Karte mit einem Warnhinweis markiert: <a href="#arnika">Arnika</a> · <a href="#aronstab">Aronstab</a> · <a href="#besenginster">Besenginster</a> · <a href="#bilsenkraut">Bilsenkraut</a> · <a href="#bittermandeln">Bittermandeln</a> · <a href="#blutwurz-kanadische">Blutwurz, kanadische</a> · <a href="#efeu">Efeu</a> · <a href="#eisenhut">Eisenhut</a> · <a href="#faulbaum">Faulbaum</a> · <a href="#giftsumach">Giftsumach</a> · <a href="#haselwurz">Haselwurz</a> · <a href="#kermesbeere">Kermesbeere</a> · <a href="#kuechenschelle-kleine">Küchenschelle, kleine</a> · <a href="#lebensbaum">Lebensbaum</a> · <a href="#lobelie">Lobelie</a> · <a href="#maiapfel">Maiapfel</a> · <a href="#maigloeckchen">Maiglöckchen</a> · <a href="#nachtschatten-bittersuesser">Nachtschatten, bittersüsser</a> · <a href="#pfirsichkern">Pfirsichkern</a> · <a href="#polei-minze">Polei-Minze</a> · <a href="#rainfarn">Rainfarn</a> · <a href="#schoellkraut">Schöllkraut</a> · <a href="#schwertlilie-blutfarbige">Schwertlilie, blutfarbige</a> · <a href="#seidenpflanze-knollige">Seidenpflanze, knollige</a> · <a href="#stechapfel-gemeiner">Stechapfel, gemeiner</a> · <a href="#tollkirsche">Tollkirsche</a> · <a href="#waldrebe-steife">Waldrebe steife</a> · <a href="#zaunruebe-weisse">Zaunrübe, weisse</a> · <a href="#zypressenwolfsmilch">Zypressenwolfsmilch</a>. Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen. Die Einstufung als Giftpflanze stammt nicht von therapeutika.ch, sondern aus allgemein anerkannten toxikologischen Angaben (u. a. Wikipedia „Liste giftiger Pflanzen“ und die jeweiligen Pflanzenartikel). Eine fehlende Markierung bedeutet nicht, dass eine Pflanze unbedenklich ist. Bei Verdacht auf Vergiftung: Tox Info Suisse, Notruf 145 (Schweiz), sonst Notruf 112.</p>
       <p class="intro" id="gewuerze">Hinweis: 30 Heilkräuter, die bereits auf <a href="https://zagathou.github.io/tcm-gewuerze/">TCM Gewürze</a> stehen, sind hier nicht doppelt aufgeführt: <a href="https://zagathou.github.io/tcm-gewuerze/#anis">Anis</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#basilikum">Basilikum</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#bertram">Bertram</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#bockshornklee">Bockshornklee</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#bohnenkraut">Bohnenkraut</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#chili">Chili</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#dill">Dill</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#fenchel">Fenchel</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#galgant">Galgant</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#gewuerznelke">Gewürznelke</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#ingwer">Ingwer</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#koriander">Koriander</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#kreuzkuemmel">Kreuzkümmel</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#kuemmel">Kümmel</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#kurkuma">Kurkuma</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#liebstoeckel">Liebstöckel</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#lorbeerblatt">Lorbeerblatt</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#majoran">Majoran</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#melisse">Melisse</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#muskat">Muskat</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#oregano">Oregano</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#pfeffer-schwarz">Pfeffer, schwarz</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#rosmarin">Rosmarin</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#safran">Safran</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#salbei">Salbei</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#sumach">Sumach</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#suessholz">Süssholz</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#thymian">Thymian</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#ysop">Ysop</a> · <a href="https://zagathou.github.io/tcm-gewuerze/#zimt">Zimt</a>.</p>
       <p class="intro">Weitere Seiten: <a href="https://zagathou.github.io/tcm-gewuerze/">TCM Gewürze</a> · <a href="https://zagathou.github.io/tcm-proteine/">TCM Proteine</a> · <a href="https://zagathou.github.io/tcm-fette/">TCM Fette</a> · <a href="https://zagathou.github.io/tcm-kohlenhydrate/">TCM Kohlenhydrate</a> · Alle Einträge als reiner Text: <a href="llms-full.txt">llms-full.txt</a></p>
       <nav aria-label="Heilkräuter von A bis Z">
@@ -1982,6 +1987,7 @@ Humorale Qualität: warm 2°, trocken 3°</p>
 
     <article class="card entry" id="arnika" aria-labelledby="arnika-h">
       <h2 class="entry-name" id="arnika-h">Arnika</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Arnica montana</span> · Deutsch: <span lang="de">Bergwohlverleih</span> · Pharmazeutisch: Arnicae flos, Arnicae radix</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Arnica+montana" rel="noopener">therapeutika.ch – Arnica montana</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -2015,6 +2021,7 @@ Humorale Qualität: warm 2°, trocken 3°</p>
 
     <article class="card entry" id="aronstab" aria-labelledby="aronstab-h">
       <h2 class="entry-name" id="aronstab-h">Aronstab</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Arum maculatum</span> · Pharmazeutisch: Ari maculati</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Arum+maculatum" rel="noopener">therapeutika.ch – Arum maculatum</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -2325,6 +2332,7 @@ Humorale Qualität: warm 1-2°, trocken 2°; durchdringend, verstopfte Glieder i
 
     <article class="card entry" id="besenginster" aria-labelledby="besenginster-h">
       <h2 class="entry-name" id="besenginster-h">Besenginster</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Cytisus scoparius</span> · Latein (weitere): <span lang="la">Sarothamnus scoparius</span> · Pharmazeutisch: Cytisi scoparii</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Cytisus+scoparius" rel="noopener">therapeutika.ch – Cytisus scoparius</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -2354,6 +2362,7 @@ Humorale Qualität: warm2°, trocken 2°; reinigend, öffnend, ausführend</p>
 
     <article class="card entry" id="bilsenkraut" aria-labelledby="bilsenkraut-h">
       <h2 class="entry-name" id="bilsenkraut-h">Bilsenkraut</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Hyoscyamus niger</span> · Pharmazeutisch: Hyoscyami herba</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Hyoscyamus+niger" rel="noopener">therapeutika.ch – Hyoscyamus niger</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -2406,6 +2415,7 @@ Humorale Qualität: warm2°, trocken 2°; reinigend, öffnend, ausführend</p>
 
     <article class="card entry" id="bittermandeln" aria-labelledby="bittermandeln-h">
       <h2 class="entry-name" id="bittermandeln-h">Bittermandeln</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Prunus amarus</span> · Pharmazeutisch: Amygdalae amaree · Latein (weitere): <span lang="la">Prunus dulcis</span></p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Prunus+amarus" rel="noopener">therapeutika.ch – Prunus amarus</a> · Kategorie auf therapeutika.ch: Heilkräuter, Gewürze</p>
       <h3>Eigenschaften</h3>
@@ -2499,6 +2509,7 @@ Humorale Qualität: warm2°, trocken 2°; reinigend, öffnend, ausführend</p>
 
     <article class="card entry" id="blutwurz-kanadische" aria-labelledby="blutwurz-kanadische-h">
       <h2 class="entry-name" id="blutwurz-kanadische-h">Blutwurz, kanadische</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Sanguinaria canadensis</span> · Pharmazeutisch: Sanguinariae canadensis</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Sanguinaria+canadensis" rel="noopener">therapeutika.ch – Sanguinaria canadensis</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -2895,6 +2906,7 @@ Humorale Qualität: frische Droge warm 2°, trocken 2°, Samen warm 4°, trocken
 
     <article class="card entry" id="efeu" aria-labelledby="efeu-h">
       <h2 class="entry-name" id="efeu-h">Efeu</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Hedera helix</span> · Pharmazeutisch: Hederae helicis</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Hedera+helix" rel="noopener">therapeutika.ch – Hedera helix</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -2964,6 +2976,7 @@ Humorale Qualität: warm , trocken</p>
 
     <article class="card entry" id="eisenhut" aria-labelledby="eisenhut-h">
       <h2 class="entry-name" id="eisenhut-h">Eisenhut</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Aconitum napellus</span> · Pharmazeutisch: Aconiti radix</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Aconitum+napellus" rel="noopener">therapeutika.ch – Aconitum napellus</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -3208,6 +3221,7 @@ unterstützt die Hun Seele; bringt Chong Mai Energie nach oben</p>
 
     <article class="card entry" id="faulbaum" aria-labelledby="faulbaum-h">
       <h2 class="entry-name" id="faulbaum-h">Faulbaum</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Rhamnus frangula</span> · Pharmazeutisch: Frangulae cortex</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Rhamnus+frangula" rel="noopener">therapeutika.ch – Rhamnus frangula</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -3477,6 +3491,7 @@ Humorale Qualität: warm 3°, trocken 3°; auflösend, durchdringend, digerieren
 
     <article class="card entry" id="giftsumach" aria-labelledby="giftsumach-h">
       <h2 class="entry-name" id="giftsumach-h">Giftsumach</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Rhus toxicodendron</span> · Pharmazeutisch: Toxicodendri</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Rhus+toxicodendron" rel="noopener">therapeutika.ch – Rhus toxicodendron</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -3724,6 +3739,7 @@ Samen TCM: Nieren-Tonikum</p>
 
     <article class="card entry" id="haselwurz" aria-labelledby="haselwurz-h">
       <h2 class="entry-name" id="haselwurz-h">Haselwurz</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Asarum europaeum</span> · Pharmazeutisch: Asari</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Asarum+europaeum" rel="noopener">therapeutika.ch – Asarum europaeum</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -4493,6 +4509,7 @@ Humorale Qualität: warm 2°, trocken 2°; eröffnend, reinigend</p>
 
     <article class="card entry" id="kermesbeere" aria-labelledby="kermesbeere-h">
       <h2 class="entry-name" id="kermesbeere-h">Kermesbeere</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Phytolacca americana</span> · Pharmazeutisch: Phytolaccae americanae radix</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Phytolacca+americana" rel="noopener">therapeutika.ch – Phytolacca americana</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -4667,6 +4684,7 @@ Humorale Qualität: warm 1°, trocken 1°; zerteilend</p>
 
     <article class="card entry" id="kuechenschelle-kleine" aria-labelledby="kuechenschelle-kleine-h">
       <h2 class="entry-name" id="kuechenschelle-kleine-h">Küchenschelle, kleine</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Pulsatilla vulgaris</span> · Latein (weitere): <span lang="la">Pulsatilla pratensis</span> · Pharmazeutisch: Pulsatillae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Pulsatilla+vulgaris" rel="noopener">therapeutika.ch – Pulsatilla vulgaris</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -4740,6 +4758,7 @@ Humorale Qualität: Oberirdische Teile warm 4°, trocken 2°, Wurzel warm 2°, t
 
     <article class="card entry" id="lebensbaum" aria-labelledby="lebensbaum-h">
       <h2 class="entry-name" id="lebensbaum-h">Lebensbaum</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Thuja occidentalis</span> · Pharmazeutisch: Thujae summitates</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Thuja+occidentalis" rel="noopener">therapeutika.ch – Thuja occidentalis</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -4828,6 +4847,7 @@ Humorale Qualität: Oberirdische Teile warm 4°, trocken 2°, Wurzel warm 2°, t
 
     <article class="card entry" id="lobelie" aria-labelledby="lobelie-h">
       <h2 class="entry-name" id="lobelie-h">Lobelie</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Lobelia inflata</span> · Pharmazeutisch: Lobeliae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Lobelia+inflata" rel="noopener">therapeutika.ch – Lobelia inflata</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -4985,6 +5005,7 @@ Humorale Qualität: warm 1°, feucht 2°</p>
 
     <article class="card entry" id="maiapfel" aria-labelledby="maiapfel-h">
       <h2 class="entry-name" id="maiapfel-h">Maiapfel</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Podophyllum peltatum</span> · Pharmazeutisch: Podophylli peltati rhizoma</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Podophyllum+peltatum" rel="noopener">therapeutika.ch – Podophyllum peltatum</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -5009,6 +5030,7 @@ Humorale Qualität: warm 1°, feucht 2°</p>
 
     <article class="card entry" id="maigloeckchen" aria-labelledby="maigloeckchen-h">
       <h2 class="entry-name" id="maigloeckchen-h">Maiglöckchen</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Convallaria majalis</span> · Pharmazeutisch: Convallariae herba</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Convallaria+majalis" rel="noopener">therapeutika.ch – Convallaria majalis</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -5352,6 +5374,7 @@ Humorale Qualität: warm 3°, trocken 2°</p>
 
     <article class="card entry" id="nachtschatten-bittersuesser" aria-labelledby="nachtschatten-bittersuesser-h">
       <h2 class="entry-name" id="nachtschatten-bittersuesser-h">Nachtschatten, bittersüsser</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Solanum dulcamara</span> · Deutsch: <span lang="de">Bittersüsser Nachtschatten</span> · Pharmazeutisch: Dulcamarae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Solanum+dulcamara" rel="noopener">therapeutika.ch – Solanum dulcamara</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -5578,6 +5601,7 @@ Humorale Qualität: warm 1°, trocken 2°, ablösend, zerteilend, säubernd ohne
 
     <article class="card entry" id="pfirsichkern" aria-labelledby="pfirsichkern-h">
       <h2 class="entry-name" id="pfirsichkern-h">Pfirsichkern</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Prunus persica</span></p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Prunus+persica" rel="noopener">therapeutika.ch – Prunus persica</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -5598,6 +5622,7 @@ Humorale Qualität: warm 1°, trocken 2°, ablösend, zerteilend, säubernd ohne
 
     <article class="card entry" id="polei-minze" aria-labelledby="polei-minze-h">
       <h2 class="entry-name" id="polei-minze-h">Polei-Minze</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Mentha pulegium</span> · Pharmazeutisch: Mentha pulegium</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Mentha+pulegium" rel="noopener">therapeutika.ch – Mentha pulegium</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -5686,6 +5711,7 @@ Humorale Qualität: warm 1°, trocken 2°, ablösend, zerteilend, säubernd ohne
 
     <article class="card entry" id="rainfarn" aria-labelledby="rainfarn-h">
       <h2 class="entry-name" id="rainfarn-h">Rainfarn</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Tanacetum vulgare</span> · Pharmazeutisch: Tanaceti</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Tanacetum+vulgare" rel="noopener">therapeutika.ch – Tanacetum vulgare</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -6071,6 +6097,7 @@ Humorale Qualität: warm 3°, trocken 2-3°; erweichend, reinigend</p>
 
     <article class="card entry" id="schoellkraut" aria-labelledby="schoellkraut-h">
       <h2 class="entry-name" id="schoellkraut-h">Schöllkraut</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Chelidonium majus</span> · Pharmazeutisch: Chelidonii herba</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Chelidonium+majus" rel="noopener">therapeutika.ch – Chelidonium majus</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -6115,6 +6142,7 @@ Humorale Qualität: warm 3°, trocken 2-3°; erweichend, reinigend</p>
 
     <article class="card entry" id="schwertlilie-blutfarbige" aria-labelledby="schwertlilie-blutfarbige-h">
       <h2 class="entry-name" id="schwertlilie-blutfarbige-h">Schwertlilie, blutfarbige</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Iris versicolor</span> · Pharmazeutisch: Iridis</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Iris+versicolor" rel="noopener">therapeutika.ch – Iris versicolor</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -6132,6 +6160,7 @@ Humorale Qualität: warm 3°, trocken 3°</p>
 
     <article class="card entry" id="seidenpflanze-knollige" aria-labelledby="seidenpflanze-knollige-h">
       <h2 class="entry-name" id="seidenpflanze-knollige-h">Seidenpflanze, knollige</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Asclepias tuberosa</span> · Pharmazeutisch: Asclepiadis tuberosae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Asclepias+tuberosa" rel="noopener">therapeutika.ch – Asclepias tuberosa</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -6381,6 +6410,7 @@ Humorale Qualität: kalt 2°, trocken 2°</p>
 
     <article class="card entry" id="stechapfel-gemeiner" aria-labelledby="stechapfel-gemeiner-h">
       <h2 class="entry-name" id="stechapfel-gemeiner-h">Stechapfel, gemeiner</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Datura stramonium</span> · Pharmazeutisch: Stramonii</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Datura+stramonium" rel="noopener">therapeutika.ch – Datura stramonium</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -6716,6 +6746,7 @@ für 1 Woche 3x tgl.: Ferula und Reismehl zu gleichen Teilen im Mörser zerstoss
 
     <article class="card entry" id="tollkirsche" aria-labelledby="tollkirsche-h">
       <h2 class="entry-name" id="tollkirsche-h">Tollkirsche</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Atropa belladonna</span> · Pharmazeutisch: Belladonnae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Atropa+belladonna" rel="noopener">therapeutika.ch – Atropa belladonna</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -6978,6 +7009,7 @@ Humorale Qualität: kalt 2-3°, trocken 2°</p>
 
     <article class="card entry" id="waldrebe-steife" aria-labelledby="waldrebe-steife-h">
       <h2 class="entry-name" id="waldrebe-steife-h">Waldrebe steife</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Clematis recta</span> · Pharmazeutisch: Clematis rectae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Clematis+recta" rel="noopener">therapeutika.ch – Clematis recta</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -7514,6 +7546,7 @@ akute Hepatitis, akute Leberentzündung, Cholezystitis,Gallenblasenentzündung, 
 
     <article class="card entry" id="zaunruebe-weisse" aria-labelledby="zaunruebe-weisse-h">
       <h2 class="entry-name" id="zaunruebe-weisse-h">Zaunrübe, weisse</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Bryonia alba</span> · Pharmazeutisch: Bryoniae</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Bryonia+alba" rel="noopener">therapeutika.ch – Bryonia alba</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -7535,6 +7568,7 @@ Humorale Qualität: warm 3°, trocken 3°</p>
 
     <article class="card entry" id="zypressenwolfsmilch" aria-labelledby="zypressenwolfsmilch-h">
       <h2 class="entry-name" id="zypressenwolfsmilch-h">Zypressenwolfsmilch</h2>
+      <p class="warn" role="note"><strong>⚠ Giftpflanze (sehr giftig):</strong> Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen.</p>
       <p class="alt">Latein: <span lang="la">Euphorbia cyparissias</span> · Pharmazeutisch: Euphorbiae cyparissiatis</p>
       <p class="src">Quelle: <a href="https://www.therapeutika.ch/Euphorbia+cyparissias" rel="noopener">therapeutika.ch – Euphorbia cyparissias</a> · Kategorie auf therapeutika.ch: Heilkräuter</p>
       <h3>Eigenschaften</h3>
@@ -7573,6 +7607,7 @@ Humorale Qualität: warm 3°, trocken 3°</p>
     </nav>
     <p>Quelle: <a href="https://www.therapeutika.ch/" rel="noopener">therapeutika.ch</a> – alle Eigenschaften und TCM Wirkungen stammen von dort. Stand: 29.09.2026.</p>
     <p>Angaben ohne Gewähr, ersetzt keine ärztliche Beratung.</p>
+    <p class="warn-line">⚠ Giftpflanzen (auf der Karte markiert) nur unter fachkundiger Anleitung anwenden, nicht selbst sammeln oder einnehmen. Vergiftungsnotruf Schweiz: 145 (Tox Info Suisse).</p>
     <p>Zusammengestellt von Christian Grigoriadis (Zagathou) · <a href="https://freyna.org/">freyna.org</a></p>
   </footer>
   </div>

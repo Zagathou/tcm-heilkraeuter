@@ -6,6 +6,10 @@ Eine einzelne statische Seite (https://zagathou.github.io/tcm-heilkraeuter/) mit
 
 Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https://zagathou.github.io/tcm-gewuerze/) stehen: Anis · Basilikum · Bertram · Bockshornklee · Bohnenkraut · Chili · Dill · Fenchel · Galgant · Gewürznelke · Ingwer · Koriander · Kreuzkümmel · Kümmel · Kurkuma · Liebstöckel · Lorbeerblatt · Majoran · Melisse · Muskat · Oregano · Pfeffer, schwarz · Rosmarin · Safran · Salbei · Sumach · Süssholz · Thymian · Ysop · Zimt.
 
+## Warnung: Giftpflanzen
+
+29 Einträge sind Giftpflanzen (auf der Webseite mit Warnhinweis, in den Textdateien mit „WARNUNG: Giftpflanze“ markiert): Arnika (giftig) · Aronstab (sehr giftig) · Besenginster (giftig) · Bilsenkraut (sehr giftig) · Bittermandeln (giftig) · Blutwurz, kanadische (giftig) · Efeu (giftig) · Eisenhut (sehr giftig) · Faulbaum (giftig) · Giftsumach (giftig) · Haselwurz (giftig) · Kermesbeere (giftig) · Küchenschelle, kleine (sehr giftig) · Lebensbaum (giftig) · Lobelie (giftig) · Maiapfel (giftig) · Maiglöckchen (sehr giftig) · Nachtschatten, bittersüsser (giftig) · Pfirsichkern (giftig) · Polei-Minze (giftig) · Rainfarn (giftig) · Schöllkraut (giftig) · Schwertlilie, blutfarbige (giftig) · Seidenpflanze, knollige (giftig) · Stechapfel, gemeiner (sehr giftig) · Tollkirsche (sehr giftig) · Waldrebe steife (giftig) · Zaunrübe, weisse (sehr giftig) · Zypressenwolfsmilch (sehr giftig). Nur unter fachkundiger Anleitung anwenden. Nicht selbst sammeln oder einnehmen. Die Einstufung stammt nicht von therapeutika.ch, sondern aus allgemein anerkannten toxikologischen Angaben (u. a. Wikipedia „Liste giftiger Pflanzen“). Fehlende Markierung bedeutet nicht Unbedenklichkeit. Vergiftungsnotruf Schweiz: 145 (Tox Info Suisse), sonst 112.
+
 ## Dateien
 
 - [Webseite (HTML)](https://zagathou.github.io/tcm-heilkraeuter/): alle Einträge als Karten, ohne JavaScript
@@ -20,8 +24,8 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Aloe](https://zagathou.github.io/tcm-heilkraeuter/#aloe): Aloe vera
 - [Ampfer, krauser](https://zagathou.github.io/tcm-heilkraeuter/#ampfer-krauser): Rumex crispus
 - [Andorn, gemeiner](https://zagathou.github.io/tcm-heilkraeuter/#andorn-gemeiner): Marrubium vulgare
-- [Arnika](https://zagathou.github.io/tcm-heilkraeuter/#arnika): Arnica montana
-- [Aronstab](https://zagathou.github.io/tcm-heilkraeuter/#aronstab): Arum maculatum
+- [Arnika](https://zagathou.github.io/tcm-heilkraeuter/#arnika): Arnica montana – WARNUNG: Giftpflanze (giftig)
+- [Aronstab](https://zagathou.github.io/tcm-heilkraeuter/#aronstab): Arum maculatum – WARNUNG: Giftpflanze (sehr giftig)
 - [Artischocke](https://zagathou.github.io/tcm-heilkraeuter/#artischocke): Cynara scolymus
 - [Augentrost](https://zagathou.github.io/tcm-heilkraeuter/#augentrost): Euphrasia rostkoviana
 
@@ -36,14 +40,14 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Beinwell](https://zagathou.github.io/tcm-heilkraeuter/#beinwell): Symphytum officinale
 - [Benediktenkraut](https://zagathou.github.io/tcm-heilkraeuter/#benediktenkraut): Carduus benedictus
 - [Berberitze](https://zagathou.github.io/tcm-heilkraeuter/#berberitze): Berberis vulgaris
-- [Besenginster](https://zagathou.github.io/tcm-heilkraeuter/#besenginster): Cytisus scoparius
-- [Bilsenkraut](https://zagathou.github.io/tcm-heilkraeuter/#bilsenkraut): Hyoscyamus niger
+- [Besenginster](https://zagathou.github.io/tcm-heilkraeuter/#besenginster): Cytisus scoparius – WARNUNG: Giftpflanze (giftig)
+- [Bilsenkraut](https://zagathou.github.io/tcm-heilkraeuter/#bilsenkraut): Hyoscyamus niger – WARNUNG: Giftpflanze (sehr giftig)
 - [Birke](https://zagathou.github.io/tcm-heilkraeuter/#birke): Betula pendula
-- [Bittermandeln](https://zagathou.github.io/tcm-heilkraeuter/#bittermandeln): Prunus amarus
+- [Bittermandeln](https://zagathou.github.io/tcm-heilkraeuter/#bittermandeln): Prunus amarus – WARNUNG: Giftpflanze (giftig)
 - [Bitterorange](https://zagathou.github.io/tcm-heilkraeuter/#bitterorange): Citrus aurantium
 - [Blutweiderich](https://zagathou.github.io/tcm-heilkraeuter/#blutweiderich): Lythrum salicaria
 - [Blutwurz](https://zagathou.github.io/tcm-heilkraeuter/#blutwurz): Potentilla erecta
-- [Blutwurz, kanadische](https://zagathou.github.io/tcm-heilkraeuter/#blutwurz-kanadische): Sanguinaria canadensis
+- [Blutwurz, kanadische](https://zagathou.github.io/tcm-heilkraeuter/#blutwurz-kanadische): Sanguinaria canadensis – WARNUNG: Giftpflanze (giftig)
 - [Bocksdorn, gemeiner](https://zagathou.github.io/tcm-heilkraeuter/#bocksdorn-gemeiner): Lycium chinensis
 - [Boldobaum](https://zagathou.github.io/tcm-heilkraeuter/#boldobaum): Peumus boldus
 - [Borretsch](https://zagathou.github.io/tcm-heilkraeuter/#borretsch): Borago officinalis
@@ -67,9 +71,9 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 ### E (11)
 
 - [Eberraute](https://zagathou.github.io/tcm-heilkraeuter/#eberraute): Artemisia abrotanum
-- [Efeu](https://zagathou.github.io/tcm-heilkraeuter/#efeu): Hedera helix
+- [Efeu](https://zagathou.github.io/tcm-heilkraeuter/#efeu): Hedera helix – WARNUNG: Giftpflanze (giftig)
 - [Eibisch](https://zagathou.github.io/tcm-heilkraeuter/#eibisch): Althaea officinalis
-- [Eisenhut](https://zagathou.github.io/tcm-heilkraeuter/#eisenhut): Aconitum napellus
+- [Eisenhut](https://zagathou.github.io/tcm-heilkraeuter/#eisenhut): Aconitum napellus – WARNUNG: Giftpflanze (sehr giftig)
 - [Eisenkraut](https://zagathou.github.io/tcm-heilkraeuter/#eisenkraut): Verbena officinalis
 - [Engelwurz](https://zagathou.github.io/tcm-heilkraeuter/#engelwurz): Angelica archangelica
 - [Enzian gelber](https://zagathou.github.io/tcm-heilkraeuter/#enzian-gelber): Gentiana lutea
@@ -81,7 +85,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 ### F (7)
 
 - [Färberhülse](https://zagathou.github.io/tcm-heilkraeuter/#faerberhuelse): Baptisia tinctoria
-- [Faulbaum](https://zagathou.github.io/tcm-heilkraeuter/#faulbaum): Rhamnus frangula
+- [Faulbaum](https://zagathou.github.io/tcm-heilkraeuter/#faulbaum): Rhamnus frangula – WARNUNG: Giftpflanze (giftig)
 - [Feldraute](https://zagathou.github.io/tcm-heilkraeuter/#feldraute): Ruta graveolens
 - [Fischrinde](https://zagathou.github.io/tcm-heilkraeuter/#fischrinde): Piscidia piscipula
 - [Flohsamen](https://zagathou.github.io/tcm-heilkraeuter/#flohsamen): Plantago afra
@@ -94,7 +98,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Gelbholz, eschenblättrig](https://zagathou.github.io/tcm-heilkraeuter/#gelbholz-eschenblaettrig): Zanthoxylum americanum
 - [Gelbwurzel, kanadische](https://zagathou.github.io/tcm-heilkraeuter/#gelbwurzel-kanadische): Hydrastis canadensis
 - [Gichtkraut](https://zagathou.github.io/tcm-heilkraeuter/#gichtkraut): Chimaphila umbellata
-- [Giftsumach](https://zagathou.github.io/tcm-heilkraeuter/#giftsumach): Rhus toxicodendron
+- [Giftsumach](https://zagathou.github.io/tcm-heilkraeuter/#giftsumach): Rhus toxicodendron – WARNUNG: Giftpflanze (giftig)
 - [Ginkgo](https://zagathou.github.io/tcm-heilkraeuter/#ginkgo): Ginkgo biloba
 - [Ginseng](https://zagathou.github.io/tcm-heilkraeuter/#ginseng): Panax ginseng
 - [Glaskraut aufrechtes](https://zagathou.github.io/tcm-heilkraeuter/#glaskraut-aufrechtes): Parietaria erecta/officinalis
@@ -108,7 +112,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 
 - [Hafer, Heilkraut](https://zagathou.github.io/tcm-heilkraeuter/#hafer-heilkraut): Avena sativa
 - [Hagebutte, Frucht](https://zagathou.github.io/tcm-heilkraeuter/#hagebutte-frucht): Rosa canina
-- [Haselwurz](https://zagathou.github.io/tcm-heilkraeuter/#haselwurz): Asarum europaeum
+- [Haselwurz](https://zagathou.github.io/tcm-heilkraeuter/#haselwurz): Asarum europaeum – WARNUNG: Giftpflanze (giftig)
 - [Hauhechel, dorniger](https://zagathou.github.io/tcm-heilkraeuter/#hauhechel-dorniger): Ononis spinosa
 - [Heckenrose, Blüte](https://zagathou.github.io/tcm-heilkraeuter/#heckenrose-bluete): Rosa canina
 - [Heidelbeere](https://zagathou.github.io/tcm-heilkraeuter/#heidelbeere): Vaccinium myrtillus
@@ -144,21 +148,21 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Karotte](https://zagathou.github.io/tcm-heilkraeuter/#karotte): Daucus carota
 - [Käslikraut](https://zagathou.github.io/tcm-heilkraeuter/#kaeslikraut): Malva sylvestris
 - [Kelp](https://zagathou.github.io/tcm-heilkraeuter/#kelp): Macrosystis pyrifera, Ascophyllum nodosum
-- [Kermesbeere](https://zagathou.github.io/tcm-heilkraeuter/#kermesbeere): Phytolacca americana
+- [Kermesbeere](https://zagathou.github.io/tcm-heilkraeuter/#kermesbeere): Phytolacca americana – WARNUNG: Giftpflanze (giftig)
 - [Klette, grosse](https://zagathou.github.io/tcm-heilkraeuter/#klette-grosse): Arctium lappa
 - [Klettenlabkraut](https://zagathou.github.io/tcm-heilkraeuter/#klettenlabkraut): Galium aparine
 - [Königin der Nacht](https://zagathou.github.io/tcm-heilkraeuter/#koenigin-der-nacht): Selenicereus grandiflorus
 - [Königskerze, grosse](https://zagathou.github.io/tcm-heilkraeuter/#koenigskerze-grosse): Verbascum densiflorum
 - [Krallendorn](https://zagathou.github.io/tcm-heilkraeuter/#krallendorn): Uncaria tomentosa
-- [Küchenschelle, kleine](https://zagathou.github.io/tcm-heilkraeuter/#kuechenschelle-kleine): Pulsatilla vulgaris
+- [Küchenschelle, kleine](https://zagathou.github.io/tcm-heilkraeuter/#kuechenschelle-kleine): Pulsatilla vulgaris – WARNUNG: Giftpflanze (sehr giftig)
 
 ### L (7)
 
 - [Lavendel](https://zagathou.github.io/tcm-heilkraeuter/#lavendel): Lavandula angustifolia
-- [Lebensbaum](https://zagathou.github.io/tcm-heilkraeuter/#lebensbaum): Thuja occidentalis
+- [Lebensbaum](https://zagathou.github.io/tcm-heilkraeuter/#lebensbaum): Thuja occidentalis – WARNUNG: Giftpflanze (giftig)
 - [Leptandrawurzel](https://zagathou.github.io/tcm-heilkraeuter/#leptandrawurzel): Leptandra virginica
 - [Lindenblüte](https://zagathou.github.io/tcm-heilkraeuter/#lindenbluete): Tilia platyphyllos
-- [Lobelie](https://zagathou.github.io/tcm-heilkraeuter/#lobelie): Lobelia inflata
+- [Lobelie](https://zagathou.github.io/tcm-heilkraeuter/#lobelie): Lobelia inflata – WARNUNG: Giftpflanze (giftig)
 - [Löwenzahn](https://zagathou.github.io/tcm-heilkraeuter/#loewenzahn): Taraxacum officinale
 - [Lungenkraut](https://zagathou.github.io/tcm-heilkraeuter/#lungenkraut): Pulmonaria officinalis
 
@@ -166,8 +170,8 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 
 - [Mädesüss](https://zagathou.github.io/tcm-heilkraeuter/#maedesuess): Filipendula ulmaria
 - [Mahonienwurzel](https://zagathou.github.io/tcm-heilkraeuter/#mahonienwurzel): Mahonia aquifolium
-- [Maiapfel](https://zagathou.github.io/tcm-heilkraeuter/#maiapfel): Podophyllum peltatum
-- [Maiglöckchen](https://zagathou.github.io/tcm-heilkraeuter/#maigloeckchen): Convallaria majalis
+- [Maiapfel](https://zagathou.github.io/tcm-heilkraeuter/#maiapfel): Podophyllum peltatum – WARNUNG: Giftpflanze (giftig)
+- [Maiglöckchen](https://zagathou.github.io/tcm-heilkraeuter/#maigloeckchen): Convallaria majalis – WARNUNG: Giftpflanze (sehr giftig)
 - [Maishaar](https://zagathou.github.io/tcm-heilkraeuter/#maishaar): Zea mays
 - [Mariendistel](https://zagathou.github.io/tcm-heilkraeuter/#mariendistel): Silybum marianum
 - [Meerrettich](https://zagathou.github.io/tcm-heilkraeuter/#meerrettich): Armoracia rusticana
@@ -181,7 +185,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 ### N (2)
 
 - [Nachtkerzen](https://zagathou.github.io/tcm-heilkraeuter/#nachtkerzen): Oenothera biennis L.
-- [Nachtschatten, bittersüsser](https://zagathou.github.io/tcm-heilkraeuter/#nachtschatten-bittersuesser): Solanum dulcamara
+- [Nachtschatten, bittersüsser](https://zagathou.github.io/tcm-heilkraeuter/#nachtschatten-bittersuesser): Solanum dulcamara – WARNUNG: Giftpflanze (giftig)
 
 ### O (2)
 
@@ -195,8 +199,8 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Petersilie](https://zagathou.github.io/tcm-heilkraeuter/#petersilie): Petroselinum crispum
 - [Pfefferminze](https://zagathou.github.io/tcm-heilkraeuter/#pfefferminze): Mentha piperita
 - [Pfingstrose](https://zagathou.github.io/tcm-heilkraeuter/#pfingstrose): Paeonia officinalis
-- [Pfirsichkern](https://zagathou.github.io/tcm-heilkraeuter/#pfirsichkern): Prunus persica
-- [Polei-Minze](https://zagathou.github.io/tcm-heilkraeuter/#polei-minze): Mentha pulegium
+- [Pfirsichkern](https://zagathou.github.io/tcm-heilkraeuter/#pfirsichkern): Prunus persica – WARNUNG: Giftpflanze (giftig)
+- [Polei-Minze](https://zagathou.github.io/tcm-heilkraeuter/#polei-minze): Mentha pulegium – WARNUNG: Giftpflanze (giftig)
 - [Potenzholz](https://zagathou.github.io/tcm-heilkraeuter/#potenzholz): Ptychopetalum olacoides
 
 ### Q (2)
@@ -206,7 +210,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 
 ### R (5)
 
-- [Rainfarn](https://zagathou.github.io/tcm-heilkraeuter/#rainfarn): Tanacetum vulgare
+- [Rainfarn](https://zagathou.github.io/tcm-heilkraeuter/#rainfarn): Tanacetum vulgare – WARNUNG: Giftpflanze (giftig)
 - [Rauschpfeffer](https://zagathou.github.io/tcm-heilkraeuter/#rauschpfeffer): Piper methysticum
 - [Rhabarber, echter](https://zagathou.github.io/tcm-heilkraeuter/#rhabarber-echter): Rheum officinale
 - [Ringelblume](https://zagathou.github.io/tcm-heilkraeuter/#ringelblume): Calendula officinalis
@@ -223,10 +227,10 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Schlüsselblume](https://zagathou.github.io/tcm-heilkraeuter/#schluesselblume): Primula veris
 - [Schneeball, kirschblättriger](https://zagathou.github.io/tcm-heilkraeuter/#schneeball-kirschblaettriger): Viburnum prunifolium
 - [Schneeflockenstrauch](https://zagathou.github.io/tcm-heilkraeuter/#schneeflockenstrauch): Chionanthus virginicus
-- [Schöllkraut](https://zagathou.github.io/tcm-heilkraeuter/#schoellkraut): Chelidonium majus
+- [Schöllkraut](https://zagathou.github.io/tcm-heilkraeuter/#schoellkraut): Chelidonium majus – WARNUNG: Giftpflanze (giftig)
 - [schwarzer Senfsamen](https://zagathou.github.io/tcm-heilkraeuter/#schwarzer-senfsamen): Brassica nigra
-- [Schwertlilie, blutfarbige](https://zagathou.github.io/tcm-heilkraeuter/#schwertlilie-blutfarbige): Iris versicolor
-- [Seidenpflanze, knollige](https://zagathou.github.io/tcm-heilkraeuter/#seidenpflanze-knollige): Asclepias tuberosa
+- [Schwertlilie, blutfarbige](https://zagathou.github.io/tcm-heilkraeuter/#schwertlilie-blutfarbige): Iris versicolor – WARNUNG: Giftpflanze (giftig)
+- [Seidenpflanze, knollige](https://zagathou.github.io/tcm-heilkraeuter/#seidenpflanze-knollige): Asclepias tuberosa – WARNUNG: Giftpflanze (giftig)
 - [Sellerie](https://zagathou.github.io/tcm-heilkraeuter/#sellerie): Apium graveolens
 - [Senf, gelb](https://zagathou.github.io/tcm-heilkraeuter/#senf-gelb): Sinapis alba
 - [Sennesblätter](https://zagathou.github.io/tcm-heilkraeuter/#sennesblaetter): Senna cassia
@@ -236,7 +240,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Sonnentau](https://zagathou.github.io/tcm-heilkraeuter/#sonnentau): Drosera rotundifolia
 - [Spargel](https://zagathou.github.io/tcm-heilkraeuter/#spargel): Asparagus officinalis
 - [Spitzwegerich](https://zagathou.github.io/tcm-heilkraeuter/#spitzwegerich): Plantago lanceolata
-- [Stechapfel, gemeiner](https://zagathou.github.io/tcm-heilkraeuter/#stechapfel-gemeiner): Datura stramonium
+- [Stechapfel, gemeiner](https://zagathou.github.io/tcm-heilkraeuter/#stechapfel-gemeiner): Datura stramonium – WARNUNG: Giftpflanze (sehr giftig)
 - [Steinklee, gelber](https://zagathou.github.io/tcm-heilkraeuter/#steinklee-gelber): Melilotus officinalis
 - [Steinsame](https://zagathou.github.io/tcm-heilkraeuter/#steinsame): Lithospermum erytrorhizon, officinale
 - [Sternanis](https://zagathou.github.io/tcm-heilkraeuter/#sternanis): Anisum stellatum
@@ -253,7 +257,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 - [Tausendgüldenkraut](https://zagathou.github.io/tcm-heilkraeuter/#tausendgueldenkraut): Centaurium erythraea
 - [Teufelskralle](https://zagathou.github.io/tcm-heilkraeuter/#teufelskralle): Harpagophytum procumbens
 - [Tigerlilie](https://zagathou.github.io/tcm-heilkraeuter/#tigerlilie): Lilium lancifolium
-- [Tollkirsche](https://zagathou.github.io/tcm-heilkraeuter/#tollkirsche): Atropa belladonna
+- [Tollkirsche](https://zagathou.github.io/tcm-heilkraeuter/#tollkirsche): Atropa belladonna – WARNUNG: Giftpflanze (sehr giftig)
 - [Traubensilberkerze](https://zagathou.github.io/tcm-heilkraeuter/#traubensilberkerze): Cimicifuga racemosa
 - [Tüpfelfarn, gemeiner](https://zagathou.github.io/tcm-heilkraeuter/#tuepfelfarn-gemeiner): Polypodium vulgare
 
@@ -272,7 +276,7 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 
 - [Wacholder](https://zagathou.github.io/tcm-heilkraeuter/#wacholder): Juniperus communis
 - [Wachsmyrte](https://zagathou.github.io/tcm-heilkraeuter/#wachsmyrte): Myrica cerifera
-- [Waldrebe steife](https://zagathou.github.io/tcm-heilkraeuter/#waldrebe-steife): Clematis recta
+- [Waldrebe steife](https://zagathou.github.io/tcm-heilkraeuter/#waldrebe-steife): Clematis recta – WARNUNG: Giftpflanze (giftig)
 - [Walnussbaum, gemeiner](https://zagathou.github.io/tcm-heilkraeuter/#walnussbaum-gemeiner): Juglans regia
 - [Wasserhanf](https://zagathou.github.io/tcm-heilkraeuter/#wasserhanf): Eupatorium perfoliatum
 - [Wassermelonen Samen](https://zagathou.github.io/tcm-heilkraeuter/#wassermelonen-samen): Citrullus vulgaris, semen
@@ -298,8 +302,8 @@ Nicht doppelt aufgeführt: 30 Heilkräuter, die bereits auf TCM Gewürze (https:
 ### Z (3)
 
 - [Zaubernuss](https://zagathou.github.io/tcm-heilkraeuter/#zaubernuss): Hamamelis virginiana
-- [Zaunrübe, weisse](https://zagathou.github.io/tcm-heilkraeuter/#zaunruebe-weisse): Bryonia alba
-- [Zypressenwolfsmilch](https://zagathou.github.io/tcm-heilkraeuter/#zypressenwolfsmilch): Euphorbia cyparissias
+- [Zaunrübe, weisse](https://zagathou.github.io/tcm-heilkraeuter/#zaunruebe-weisse): Bryonia alba – WARNUNG: Giftpflanze (sehr giftig)
+- [Zypressenwolfsmilch](https://zagathou.github.io/tcm-heilkraeuter/#zypressenwolfsmilch): Euphorbia cyparissias – WARNUNG: Giftpflanze (sehr giftig)
 
 ## Autor
 
