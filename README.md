@@ -9,7 +9,7 @@
 - Alle Einträge alphabetisch von A bis Z auf einer Seite (Umlaute wie Grundbuchstaben sortiert), mit A–Z-Sprungliste und vollständiger Namensliste
 - Pro Eintrag: deutscher Name, lateinischer Name und weitere Namen (sofern auf therapeutika.ch vorhanden), Eigenschaften, TCM Wirkungen mit Stärke (1 = stark, 2 und höher = schwächer) und Indikationen
 - Fehlende Angaben sind als „keine Angaben auf therapeutika.ch“ markiert
-- 30 Heilkräuter, die bereits auf [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/) stehen, sind hier nicht doppelt aufgeführt: Anis · Basilikum · Bertram · Bockshornklee · Bohnenkraut · Chili · Dill · Fenchel · Galgant · Gewürznelke · Ingwer · Koriander · Kreuzkümmel · Kümmel · Kurkuma · Liebstöckel · Lorbeerblatt · Majoran · Melisse · Muskat · Oregano · Pfeffer, schwarz · Rosmarin · Safran · Salbei · Sumach · Süssholz · Thymian · Ysop · Zimt
+- 30 Heilkräuter, die bereits auf [TCM GEWÜRZE](https://zagathou.github.io/tcm-gewuerze/) stehen, sind hier nicht doppelt aufgeführt: Anis · Basilikum · Bertram · Bockshornklee · Bohnenkraut · Chili · Dill · Fenchel · Galgant · Gewürznelke · Ingwer · Koriander · Kreuzkümmel · Kümmel · Kurkuma · Liebstöckel · Lorbeerblatt · Majoran · Melisse · Muskat · Oregano · Pfeffer, schwarz · Rosmarin · Safran · Salbei · Sumach · Süssholz · Thymian · Ysop · Zimt
 
 ### Enthaltene Heilkräuter
 
@@ -49,17 +49,17 @@
 
 - Sauberes, semantisches HTML (`main`, `article`, `nav`, `h1`–`h4`, Listen), alle Inhalte als Text im DOM
 - Strukturierte Daten als JSON-LD (`CollectionPage` mit `ItemList`)
-- [`llms.txt`](https://zagathou.github.io/tcm-heilkraeuter/llms.txt): Kurzüberblick über die Seite
-- [`llms-full.txt`](https://zagathou.github.io/tcm-heilkraeuter/llms-full.txt): alle Einträge als reiner Text
+- [`LLMS.TXT`](https://zagathou.github.io/tcm-heilkraeuter/llms.txt): Kurzüberblick über die Seite
+- [`LLMS-FULL.TXT`](https://zagathou.github.io/tcm-heilkraeuter/llms-full.txt): alle Einträge als reiner Text
 - `robots.txt` erlaubt alle Crawler (inkl. KI-Crawler), `sitemap.xml` vorhanden
 
 ## Technik
 
-Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa und Nunito (Google Fonts). Farbschema angelehnt an [freyna.org](https://freyna.org/). Gehostet mit GitHub Pages.
+Eine einzelne, statische `index.html` – nur HTML und CSS, **kein JavaScript** (nur strukturierte Daten als JSON-LD). Schriften: Comfortaa und Nunito (Google Fonts). Farbschema angelehnt an [FREYNA.ORG](https://freyna.org/). Gehostet mit GitHub Pages.
 
 ## Quelle
 
-Alle Eigenschaften und TCM Wirkungen stammen von **[therapeutika.ch](https://www.therapeutika.ch/)** (Stand: 29.09.2026). Die Texte wurden unverändert übernommen.
+Alle Eigenschaften und TCM Wirkungen stammen von **[THERAPEUTIKA.CH](https://www.therapeutika.ch/)** (Stand: 29.09.2026). Die Texte wurden unverändert übernommen.
 
 ## Hinweis
 
@@ -67,15 +67,15 @@ Angaben ohne Gewähr, ersetzt keine ärztliche Beratung. Giftpflanzen nur unter 
 
 ## Weitere Seiten
 
-- [TCM Gewürze](https://zagathou.github.io/tcm-gewuerze/)
-- [TCM Proteine](https://zagathou.github.io/tcm-proteine/)
-- [TCM Fette](https://zagathou.github.io/tcm-fette/)
-- [TCM Kohlenhydrate](https://zagathou.github.io/tcm-kohlenhydrate/)
+- [TCM GEWÜRZE](https://zagathou.github.io/tcm-gewuerze/)
+- [TCM PROTEINE](https://zagathou.github.io/tcm-proteine/)
+- [TCM FETTE](https://zagathou.github.io/tcm-fette/)
+- [TCM KOHLENHYDRATE](https://zagathou.github.io/tcm-kohlenhydrate/)
 
 ## Kontakt
 
 - Name: Christian Grigoriadis (Künstlername: Zagathou)
-- E-Mail: [xelotath@outlook.de](mailto:xelotath@outlook.de)
+- E-Mail: [XELOTATH@OUTLOOK.DE](mailto:xelotath@outlook.de)
 - Session-ID: `055065749fb6c6c2f07cb2ed15021b88eed3fc480e87215cca925ede91454e7173`
-- Website: [freyna.org](https://freyna.org/)
-- GitHub: [github.com/Zagathou](https://github.com/Zagathou)
+- Website: [FREYNA.ORG](https://freyna.org/)
+- GitHub: [GITHUB.COM/ZAGATHOU](https://github.com/Zagathou)
